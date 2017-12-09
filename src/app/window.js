@@ -214,7 +214,7 @@ var MainWindow = new Lang.Class({
                         'Tech Haven Ministries',
                         'Jim Pennucci' ];
 
-        let copyright = 'Copyright 2013-2015 The Weather Developers';
+        let copyright = _('Copyright 2013-2015 The Weather Developers');
         let attribution = this._cityView.info ? this._cityView.info.get_attribution() : '';
         copyright += attribution ? '\n' + attribution : '';
         let aboutDialog = new Gtk.AboutDialog(

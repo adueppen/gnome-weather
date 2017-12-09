@@ -205,6 +205,10 @@ msgstr "%A"
 msgid "Select Location"
 msgstr "Select Location"
 
+#: ../src/app/window.js:215
+msgid "Copyright 2013-2015 The Weather Developers"
+msgstr "Copyright 2013-2015 The Weather Developers"
+
 #: ../src/app/window.js:225
 msgid "translator-credits"
 msgstr "Bruce Cowan <bruce@bcowan.me.uk>"
